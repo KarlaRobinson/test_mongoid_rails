@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a OOP REST API in Rails, with a db in Mongoid.
 
-Things you may want to cover:
+* Ruby version: 2.5.1
 
-* Ruby version
+* Database creation:
 
-* System dependencies
+* Database initialization: 
 
-* Configuration
+* How to run the test suite:
 
-* Database creation
+* Deployment instructions: $rails s
 
-* Database initialization
+### Usage examples:
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
